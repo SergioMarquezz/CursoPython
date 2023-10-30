@@ -4,6 +4,39 @@ Se realiza este curso con el objetivo de reforzar conocimientos en el lenguaje d
 
 **Enlace de los videos del curso: <https://www.youtube.com/@LaGeekipediaDeErnesto>**
 
+En el lenguaje de programación python al igual que en otro tipo de lenguajes, existen palabras reservadas las cuales no son posible utilizarla para la declaración de variables. La sigiente tabla muestra aquellas palabras resevadas del propio lenguaje.
+
+### Palabras resevadas en Python
+
+* **and**        
+* **del**
+* **for**
+* **is**
+* **raise**
+* **assert**
+* **if**
+* **else**
+* **elif**
+* **from**
+* **lambda**
+* **return**
+* **break**
+* **global**
+* **not**
+* **try**
+* **class**
+* **except**
+* **or**
+* **while**
+* **continue**
+* **exec**
+* **import**
+* **yield**
+* **def**
+* **finally**
+* **in**
+* **print** 
+
 ### Operadores relacionales
 
 | Operador   |  Nombre   | Ejemplo | Significado | 
